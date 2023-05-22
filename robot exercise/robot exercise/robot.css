@@ -1,11 +1,37 @@
 img {
   width: 50px;
 }
+
 #face {
   width: 400px;
+  position: absolute;
 }
 
 #eyes {
-  width: 250px;
+  width: 200px;
+  height: 100px;
+  margin-top: 150px;
+  margin-left: 95px;
+  position: absolute;
 }
+
+#mouth1 {
+  position: absolute;
+  width: 150px;
+  height: 100px;
+  margin-top: 300px;
+  margin-left: 5px;
+}
+
+#hair1 {
+  position: absolute;
+  width: 330px;
+  height: 250px;
+  margin-top: 3px;
+  margin-left: -250px;
+
+}
+
+
+
 
